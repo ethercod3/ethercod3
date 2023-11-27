@@ -1,4 +1,11 @@
-### Welcome
+## Welcome 
+
+### Here's the my tech stack
+
+![Static Badge](https://img.shields.io/badge/--blue?style=flat&logo=C)
+![Static Badge](https://img.shields.io/badge/--gray?style=flat&logo=Python&logoColor=%23ffd014)
+
+
 
 
 
