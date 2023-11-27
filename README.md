@@ -2,6 +2,10 @@
 
 some cybersec fan
 
+<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gifhttps://disclaimer.org.au/media/pages/contents/marco-fusinato-desastres-invigilators-dispatch/invigilators-dispatch-four/4ee1707ddb-1676348626/gif3resized.gif" width="40" height="40" />
+
+
+
 ### My top technologies
 
 ![Static Badge](https://img.shields.io/badge/-C_language-%23A8B9CC?style=for-the-badge&logo=C&logoColor=%23A8B9CC&labelColor=%23ffffff)
