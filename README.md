@@ -2,7 +2,7 @@
 
 some cybersec fan
 
-<img src="https://disclaimer.org.au/media/pages/contents/marco-fusinato-desastres-invigilators-dispatch/invigilators-dispatch-four/dd1f75f439-1676348626/gif1smaller.gif" width="80" height="80" />
+<img src="https://disclaimer.org.au/media/pages/contents/marco-fusinato-desastres-invigilators-dispatch/invigilators-dispatch-four/dd1f75f439-1676348626/gif1smaller.gif" width="120" height="120" />
 
 
 ### My top technologies
