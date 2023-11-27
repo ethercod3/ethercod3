@@ -2,8 +2,9 @@
 
 ### Here's the my tech stack
 
-![Static Badge](https://img.shields.io/badge/--blue?style=flat&logo=C)
-![Static Badge](https://img.shields.io/badge/--gray?style=flat&logo=Python&logoColor=%23ffd014)
+![Static Badge](https://img.shields.io/badge/-C_language-%23A8B9CC?style=for-the-badge&logo=C&logoColor=%23A8B9CC&labelColor=%23ffffff)
+![Static Badge](https://img.shields.io/badge/-Python-%233776AB?style=for-the-badge&logo=Python&logoColor=%233776AB&labelColor=%23ffffff)
+
 
 
 
