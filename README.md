@@ -1,6 +1,6 @@
 ## ethercod3 
 
-Some cybersecurity fan
+some cybersec fan
 
 ### My top technologies
 
