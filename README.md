@@ -11,5 +11,5 @@ some cybersec fan
 ![Static Badge](https://img.shields.io/badge/-Python-%233776AB?style=for-the-badge&logo=Python&logoColor=%233776AB&labelColor=%23ffffff)
 ![Static Badge](https://img.shields.io/badge/-HTML-%23E34F26?style=for-the-badge&logo=html5&logoColor=%23E34F26&labelColor=%23000000)
 ![Static Badge](https://img.shields.io/badge/-CSS-%231572B6?style=for-the-badge&logo=css3&logoColor=%231572B6&labelColor=%23000000)
-![Static Badge](https://img.shields.io/badge/-Django-%231572B6?style=for-the-badge&logo=Django&logoColor=%00780a&labelColor=%23000000)
+
 
