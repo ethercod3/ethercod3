@@ -8,8 +8,8 @@ some cybersec fan
 ### Tech-stack
 
 
-![Static Badge](https://img.shields.io/badge/-Python-%233776AB?style=for-the-badge&logo=Python&logoColor=%233776AB&labelColor=%23ffffff)
-![Static Badge](https://img.shields.io/badge/-HTML-%23E34F26?style=for-the-badge&logo=html5&logoColor=%23E34F26&labelColor=%23000000)
-![Static Badge](https://img.shields.io/badge/-CSS-%231572B6?style=for-the-badge&logo=css3&logoColor=%231572B6&labelColor=%23000000)
+![Static Badge](https://img.shields.io/badge/-Python-%233776AB?style=flat&logo=Python&logoColor=%233776AB&labelColor=%23ffffff)
+![Static Badge](https://img.shields.io/badge/-HTML-%23E34F26?style=flat&logo=html5&logoColor=%23E34F26&labelColor=%23000000)
+![Static Badge](https://img.shields.io/badge/-CSS-%231572B6?style=flat&logo=css3&logoColor=%231572B6&labelColor=%23000000)
 ![Static Badge](https://img.shields.io/badge/-Django-%2300780a?style=flat&logo=Django&logoColor=%2300780a&labelColor=white)
 ![Static Badge](https://img.shields.io/badge/-SQL-%2300bdde?style=flat&logo=postgresql&logoColor=%2300bdde&labelColor=white)
