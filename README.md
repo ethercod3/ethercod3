@@ -1,1 +1,1 @@
-backend, sybersecurity, embedded enthusiast
+backend, cybersecurity, embedded enthusiast
