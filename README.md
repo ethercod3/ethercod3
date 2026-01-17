@@ -6,8 +6,6 @@
 
 ---
 
-## About
-
 developer with several years of Python experience, currently transitioning into **security research**.
 
 main interests lie at the intersection of:
