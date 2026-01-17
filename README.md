@@ -8,8 +8,6 @@
 
 developer with several years of Python experience, currently transitioning into **security research**.
 
-main interests lie at the intersection of:
-
 - reverse engineering
 - web security
 - protocol-level attacks
