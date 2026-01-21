@@ -6,7 +6,7 @@
 
 ---
 
-developer with several years of Python experience, currently transitioning into **security research**.
+developer with several years of Python experience, red team security researcher
 
 - reverse engineering
 - web security
