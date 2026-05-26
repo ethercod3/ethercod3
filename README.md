@@ -1,5 +1,3 @@
-<h1 align="center">ethercod3</h1>
-
 <p align="center">
   <strong>Backend / AppSec developer</strong><br>
   Python services, secure APIs, automation, and practical security tooling.
@@ -34,7 +32,7 @@
 
 ---
 
-### Focus
+### TLDR
 
 - Backend APIs, async workers, databases, CI/CD, and deployment automation.
 - Practical AppSec: secure code review, web/API security, OWASP Top 10, vulnerability validation.
