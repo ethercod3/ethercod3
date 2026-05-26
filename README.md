@@ -1,47 +1,43 @@
 <h1 align="center">ethercod3</h1>
 
 <p align="center">
-  <strong>Backend / AppSec developer focused on secure APIs, automation, and reliable services.</strong>
+  <strong>Backend / AppSec developer</strong><br>
+  Python services, secure APIs, automation, and practical security tooling.
 </p>
 
 <p align="center">
-  <img alt="Focus: Backend and AppSec" src="https://img.shields.io/badge/Focus-Backend%20%2F%20AppSec-0f172a?style=for-the-badge">
-  <img alt="Python" src="https://img.shields.io/badge/Python-Backend-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img alt="APIs" src="https://img.shields.io/badge/APIs-Django%20%2F%20FastAPI-059669?style=for-the-badge">
-  <img alt="Security" src="https://img.shields.io/badge/Security-Web%20%2F%20API-DC2626?style=for-the-badge&logo=owasp&logoColor=white">
+  <img alt="Backend" src="https://img.shields.io/badge/backend-0f172a?style=flat">
+  <img alt="AppSec" src="https://img.shields.io/badge/appsec-dc2626?style=flat">
+  <img alt="Python" src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white">
+  <img alt="Django" src="https://img.shields.io/badge/django-092E20?style=flat&logo=django&logoColor=white">
+  <img alt="FastAPI" src="https://img.shields.io/badge/fastapi-009688?style=flat&logo=fastapi&logoColor=white">
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/postgresql-4169E1?style=flat&logo=postgresql&logoColor=white">
+  <img alt="Redis" src="https://img.shields.io/badge/redis-DC382D?style=flat&logo=redis&logoColor=white">
+  <img alt="Docker" src="https://img.shields.io/badge/docker-2496ED?style=flat&logo=docker&logoColor=white">
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/actions-2088FF?style=flat&logo=githubactions&logoColor=white">
+  <img alt="Linux" src="https://img.shields.io/badge/linux-FCC624?style=flat&logo=linux&logoColor=111111">
+  <img alt="OWASP" src="https://img.shields.io/badge/owasp-000000?style=flat&logo=owasp&logoColor=white">
+</p>
+
+<p align="center">
+  <img alt="Rust" src="https://img.shields.io/badge/rust-000000?style=flat&logo=rust&logoColor=white">
+  <img alt="Go" src="https://img.shields.io/badge/go-00ADD8?style=flat&logo=go&logoColor=white">
+  <img alt="Nim" src="https://img.shields.io/badge/nim-FFE953?style=flat&logo=nim&logoColor=111111">
+  <img alt="C" src="https://img.shields.io/badge/c-A8B9CC?style=flat&logo=c&logoColor=111111">
+  <img alt="ESP32" src="https://img.shields.io/badge/esp32-E7352C?style=flat&logo=espressif&logoColor=white">
+  <img alt="Raspberry Pi" src="https://img.shields.io/badge/raspberry%20pi-A22846?style=flat&logo=raspberrypi&logoColor=white">
+  <img alt="Ghidra" src="https://img.shields.io/badge/ghidra-re%20basics-6b7280?style=flat">
+  <img alt="Networking" src="https://img.shields.io/badge/networking-CCNA-2563eb?style=flat&logo=cisco&logoColor=white">
 </p>
 
 ---
 
-## About
+### Focus
 
-I build backend systems with a strong application security mindset.
+- Backend APIs, async workers, databases, CI/CD, and deployment automation.
+- Practical AppSec: secure code review, web/API security, OWASP Top 10, vulnerability validation.
+- Small tools and PoCs that make testing reproducible.
 
-Most of my work sits around Python services, backend APIs, async workers, databases, CI/CD, and deployment pipelines. I care about clean service boundaries, predictable behavior, observability, tests, and production-friendly automation.
+### Stack
 
-On the security side, I focus on practical AppSec: web/API security, secure code review, OWASP Top 10, vulnerability validation, and small tools that make testing easier to reproduce and explain. I am primarily interested in backend and AppSec roles, with security research as a supporting skill rather than a separate red-team identity.
-
-## Core Skills
-
-| Area | Tools and topics |
-| --- | --- |
-| AppSec | Web/API security, secure code review, OWASP Top 10, vulnerability validation, PoC writing |
-| Backend | Python, Django/DRF, FastAPI, SQLAlchemy, PostgreSQL, Redis, Celery, Pytest |
-| Automation | Docker, GitHub Actions, GitLab CI/CD, Bash, Nushell, Perl, Make, Taskfile |
-| Tooling | CLI scripts, build pipelines, LaTeX/PDF automation, Mermaid diagrams |
-| Systems interests | Linux, networking fundamentals, build systems, x86-64/RE basics, ESP32 experiments |
-| Languages | Python, Go, JavaScript, Perl, C/C++, Nim, Rust |
-
-## What I Like Building
-
-- Backend APIs with clear contracts, tests, and deployment paths.
-- Security checks, PoCs, and validation harnesses that make findings easy to reproduce.
-- Automation around builds, reports, diagrams, PDFs, and CI pipelines.
-- Internal tooling that improves review, testing, deployment, and maintenance.
-
-## Working Style
-
-- Prefer practical, testable code over clever abstractions.
-- Document the commands, assumptions, and failure modes needed to reproduce results.
-- Keep security findings grounded in concrete evidence: request, response, impact, and fix path.
-- Use automation to remove repetitive work from review, testing, and deployment.
+`Python` `Django/DRF` `FastAPI` `SQLAlchemy` `PostgreSQL` `Redis` `Celery` `Pytest` `Docker` `GitHub Actions` `GitLab CI/CD` `Bash` `Perl` `Go` `JavaScript` `Linux`
