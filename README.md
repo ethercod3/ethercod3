@@ -17,6 +17,8 @@
   <img alt="GitHub Actions" src="https://img.shields.io/badge/actions-2088FF?style=flat&logo=githubactions&logoColor=white">
   <img alt="Linux" src="https://img.shields.io/badge/linux-FCC624?style=flat&logo=linux&logoColor=111111">
   <img alt="OWASP" src="https://img.shields.io/badge/owasp-000000?style=flat&logo=owasp&logoColor=white">
+  <img alt="OSINT" src="https://img.shields.io/badge/osint-open%20source%20intelligence-16a34a?style=flat">
+  <img alt="GEOINT" src="https://img.shields.io/badge/geoint-geospatial%20intelligence-0ea5e9?style=flat">
 </p>
 
 <p align="center">
@@ -36,6 +38,8 @@
 
 - Backend APIs, async workers, databases, CI/CD, and deployment automation.
 - Practical AppSec: secure code review, web/API security, OWASP Top 10, vulnerability validation.
+- Successful Bug Bounty and VPD cases: confirmed vulnerabilities, clear reproduction steps, and actionable reports.
+- Successful OSINT cases, GEOINT work, geolocation analysis, and structured investigation reports.
 - Small tools and PoCs that make testing reproducible.
 
 ### Stack
