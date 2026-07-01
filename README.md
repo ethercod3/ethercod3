@@ -22,7 +22,6 @@
 <p align="center">
   <img alt="Rust" src="https://img.shields.io/badge/rust-000000?style=flat&logo=rust&logoColor=white">
   <img alt="Go" src="https://img.shields.io/badge/go-00ADD8?style=flat&logo=go&logoColor=white">
-  <img alt="Nim" src="https://img.shields.io/badge/nim-FFE953?style=flat&logo=nim&logoColor=111111">
   <img alt="C" src="https://img.shields.io/badge/c-A8B9CC?style=flat&logo=c&logoColor=111111">
   <img alt="ESP32" src="https://img.shields.io/badge/esp32-E7352C?style=flat&logo=espressif&logoColor=white">
   <img alt="Raspberry Pi" src="https://img.shields.io/badge/raspberry%20pi-A22846?style=flat&logo=raspberrypi&logoColor=white">
