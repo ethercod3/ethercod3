@@ -12,8 +12,6 @@
 <p align="center">
   <img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white">
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
-  <img alt="Django" src="https://img.shields.io/badge/django-092E20?style=flat&logo=django&logoColor=white">
-  <img alt="FastAPI" src="https://img.shields.io/badge/fastapi-009688?style=flat&logo=fastapi&logoColor=white">
   <img alt="PostgreSQL" src="https://img.shields.io/badge/postgresql-4169E1?style=flat&logo=postgresql&logoColor=white">
   <img alt="Redis" src="https://img.shields.io/badge/redis-DC382D?style=flat&logo=redis&logoColor=white">
   <img alt="Docker" src="https://img.shields.io/badge/docker-2496ED?style=flat&logo=docker&logoColor=white">
@@ -27,9 +25,9 @@
 <p align="center">
   <img alt="C" src="https://img.shields.io/badge/c-A8B9CC?style=flat&logo=c&logoColor=111111">
   <img alt="ESP32" src="https://img.shields.io/badge/esp32-E7352C?style=flat&logo=espressif&logoColor=white">
-  <img alt="Raspberry Pi" src="https://img.shields.io/badge/raspberry%20pi-A22846?style=flat&logo=raspberrypi&logoColor=white">
-  <img alt="Ghidra" src="https://img.shields.io/badge/ghidra-re%20basics-6b7280?style=flat">
-  <img alt="Networking" src="https://img.shields.io/badge/networking-CCNA-2563eb?style=flat&logo=cisco&logoColor=white">
+  <img alt="Raspberry Pi" src="https://img.shields.io/badge/Raspberry%20pi-A22846?style=flat&logo=raspberrypi&logoColor=white">
+  <img alt="Ghidra" src="https://img.shields.io/badge/Ghidra-RE%20basics-6b7280?style=flat">
+  <img alt="Networking" src="https://img.shields.io/badge/Networking-CCNA-2563eb?style=flat&logo=cisco&logoColor=white">
 </p>
 
 ---
