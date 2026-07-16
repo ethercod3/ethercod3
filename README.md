@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="illustration.png" style="width: 800px;">
-</p>
-
-<p align="center">
   <strong>Backend / AppSec developer / Offensive security engineer</strong><br>
   Rust low-level development, Python services, secure APIs, automation, and practical security tooling.
 </p>
