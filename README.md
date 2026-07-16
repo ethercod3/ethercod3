@@ -6,7 +6,7 @@
 <p align="center">  
   <img alt="Offensive Security" src="https://img.shields.io/badge/Offensive Security-dc2626?style=flat">
   <img alt="AppSec" src="https://img.shields.io/badge/Application Security-dc2626?style=flat">
-  <img alt="Backend" src="https://img.shields.io/badge/backend-0f172a?style=flat">
+  <img alt="Backend" src="https://img.shields.io/badge/Backend-0f172a?style=flat">
 </p>
 
 <p align="center">
@@ -44,4 +44,4 @@
 
 ### Stack
 
-`Python` `Django/DRF` `FastAPI` `SQLAlchemy` `PostgreSQL` `Redis` `Celery` `Pytest` `Docker` `GitHub Actions` `GitLab CI/CD` `Bash` `Perl` `Go` `JavaScript` `Linux`
+`Rust` `Python` `Django/DRF` `FastAPI` `SQLAlchemy` `PostgreSQL` `Redis` `Celery` `Pytest` `Docker` `GitHub Actions` `GitLab CI/CD` `Bash` `JavaScript` `Linux`
