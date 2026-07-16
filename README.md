@@ -6,6 +6,7 @@
 <p align="center">
   <img alt="Backend" src="https://img.shields.io/badge/backend-0f172a?style=flat">
   <img alt="AppSec" src="https://img.shields.io/badge/appsec-dc2626?style=flat">
+  <img alt="Rust" src="https://img.shields.io/badge/rust-000000?style=flat&logo=rust&logoColor=white">
   <img alt="Python" src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white">
   <img alt="Django" src="https://img.shields.io/badge/django-092E20?style=flat&logo=django&logoColor=white">
   <img alt="FastAPI" src="https://img.shields.io/badge/fastapi-009688?style=flat&logo=fastapi&logoColor=white">
@@ -20,8 +21,6 @@
 </p>
 
 <p align="center">
-  <img alt="Rust" src="https://img.shields.io/badge/rust-000000?style=flat&logo=rust&logoColor=white">
-  <img alt="Go" src="https://img.shields.io/badge/go-00ADD8?style=flat&logo=go&logoColor=white">
   <img alt="C" src="https://img.shields.io/badge/c-A8B9CC?style=flat&logo=c&logoColor=111111">
   <img alt="ESP32" src="https://img.shields.io/badge/esp32-E7352C?style=flat&logo=espressif&logoColor=white">
   <img alt="Raspberry Pi" src="https://img.shields.io/badge/raspberry%20pi-A22846?style=flat&logo=raspberrypi&logoColor=white">
