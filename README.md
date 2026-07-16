@@ -1,4 +1,6 @@
-<img src="illustration.png">
+<p align="center">
+  <img src="illustration.png" style="width: 800px;">
+</p>
 
 <p align="center">
   <strong>Backend / AppSec developer / Offensive security engineer</strong><br>
