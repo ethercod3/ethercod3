@@ -5,13 +5,13 @@
 
 <p align="center">  
   <img alt="Offensive Security" src="https://img.shields.io/badge/Offensive Security-dc2626?style=flat">
-  <img alt="AppSec" src="https://img.shields.io/badge/AppSec-dc2626?style=flat">
+  <img alt="AppSec" src="https://img.shields.io/badge/Application Security-dc2626?style=flat">
   <img alt="Backend" src="https://img.shields.io/badge/backend-0f172a?style=flat">
 </p>
 
 <p align="center">
-  <img alt="Rust" src="https://img.shields.io/badge/rust-000000?style=flat&logo=rust&logoColor=white">
-  <img alt="Python" src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white">
+  <img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white">
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
   <img alt="Django" src="https://img.shields.io/badge/django-092E20?style=flat&logo=django&logoColor=white">
   <img alt="FastAPI" src="https://img.shields.io/badge/fastapi-009688?style=flat&logo=fastapi&logoColor=white">
   <img alt="PostgreSQL" src="https://img.shields.io/badge/postgresql-4169E1?style=flat&logo=postgresql&logoColor=white">
